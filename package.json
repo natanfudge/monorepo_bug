@@ -1,0 +1,6 @@
+{
+  "name": "project-references-demo",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
