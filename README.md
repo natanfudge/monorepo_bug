@@ -1,1 +1,1 @@
-"# monorepo_bug" 
+# monorepo_bug

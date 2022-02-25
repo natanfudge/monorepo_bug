@@ -1,3 +1,12 @@
 {
-  "name": "app"
+  "name": "app",
+  "scripts": {
+    "build": "tsc  --p ../app"
+  },
+  "dependencies": {
+    "common": "file:../common"
+  },
+  "devDependencies": {
+    "typescript": "4.5.5"
+  }
 }
